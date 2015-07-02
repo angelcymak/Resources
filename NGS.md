@@ -7,7 +7,7 @@ http://www.cureffi.org/2012/10/17/descriptive-statistics-and-quality-control-on-
 
 2. Annotate, manipulate, query variants using Variant tools (vtools)  
 Can also perform association. Good tutorial on quality control. Has ANNOVAR pipeline.  
-Note: if you export table in vcf format, variants with more than 2 alleles will not be exported  
+* Note: if you export table in vcf format, variants with more than 2 alleles will not be exported  
 http://varianttools.sourceforge.net/  
 Alternatively, use PLINKSEQ : https://atgu.mgh.harvard.edu/plinkseq/  
 
@@ -16,7 +16,6 @@ http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html
 
 4. If you find a variant-of-interest, visually inspect the alignment using IGV  
 https://www.broadinstitute.org/igv/
-
 Instead of loading the whole BAM file (whole genome) into IGV, you may want to extract your region of interest using samtools  
 http://samtools.sourceforge.net/
 
