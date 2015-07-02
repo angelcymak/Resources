@@ -7,7 +7,7 @@ http://www.cureffi.org/2012/10/17/descriptive-statistics-and-quality-control-on-
 
 2. Annotate, manipulate, query variants using Variant tools (vtools)  
 Can also perform association. Good tutorial on quality control. Has ANNOVAR pipeline.  
-* Note: if you export table in vcf format, variants with more than 2 alleles will not be exported  
++ Note: if you export table in vcf format, variants with more than 2 alleles will not be exported  
 http://varianttools.sourceforge.net/  
 Alternatively, use PLINKSEQ : https://atgu.mgh.harvard.edu/plinkseq/  
 
