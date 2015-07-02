@@ -34,7 +34,8 @@ https://www.broadinstitute.org/igv/
 1. GATK Best Practices for DNAseq  
 https://www.broadinstitute.org/gatk/guide/best-practices?bpm=DNAseq
 
-2. BWA for alignment of reads
+2. BWA for alignment of reads  
+http://bio-bwa.sourceforge.net/
 
 3. Picard for mark duplicates  
 http://broadinstitute.github.io/picard/
