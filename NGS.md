@@ -16,6 +16,7 @@ http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html
 
 4. If you find a variant-of-interest, visually inspect the alignment using IGV  
 https://www.broadinstitute.org/igv/  
+
   Instead of loading the whole BAM file (whole genome) into IGV, you may want to extract your region of interest using samtools  
   http://samtools.sourceforge.net/
 
@@ -29,7 +30,7 @@ https://www.broadinstitute.org/gatk/guide/best-practices?bpm=DNAseq
 3. Picard for mark duplicates  
 http://broadinstitute.github.io/picard/
 
-## If you would like to understand the NGS pipeline that GCF used 
+## If you would like to understand the NGS pipeline that GCF uses  
 https://bcbio-nextgen.readthedocs.org/en/latest/
 
 ## Others
