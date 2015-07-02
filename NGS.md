@@ -14,13 +14,20 @@ http://varianttools.sourceforge.net/
   https://atgu.mgh.harvard.edu/plinkseq/  
 
 3. Whenever possible, the first thing you should do is to check variants on known genes of your disease-of-interest.  
-http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html
+http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html  
+
+  The American College of Medical Genetics and Genomics has published recommendations about reporting incidental findings in the exons of certain genes.  
+  http://www.ncbi.nlm.nih.gov/clinvar/docs/acmg/
 
 4. If you find a variant-of-interest, visually inspect the alignment using IGV  
 https://www.broadinstitute.org/igv/  
 
   Instead of loading the whole BAM file (whole genome) into IGV, you may want to extract your region of interest using samtools  
   http://samtools.sourceforge.net/
+  
+5. Be aware that you may always have a few variants on certain large or highly polymorphic genes, like Titan. See discussions on this topic:  
+  https://www.biostars.org/p/51446/
+
 
 ## If you want to start with fastq files: 
 
