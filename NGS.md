@@ -2,7 +2,7 @@
 
 ## If you already have VCF files:
 
-1. Whenever possible, the first think you should do is to check variants on what is known about your disease-of-interest.
+1. Whenever possible, the first thing you should do is to check variants on known genes of your disease-of-interest.
 http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html
 
 2. Annotate, manipulate and query variants using Variant tools (vtools)
