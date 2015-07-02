@@ -9,7 +9,9 @@ http://www.cureffi.org/2012/10/17/descriptive-statistics-and-quality-control-on-
 Can also perform association. Good tutorial on quality control. Has ANNOVAR pipeline.  
 Note: if you export table in vcf format, variants with more than 2 alleles will not be exported  
 http://varianttools.sourceforge.net/  
-Alternatively, use PLINKSEQ : https://atgu.mgh.harvard.edu/plinkseq/  
+
+Alternatively, use PLINKSEQ  
+https://atgu.mgh.harvard.edu/plinkseq/  
 
 3. Whenever possible, the first thing you should do is to check variants on known genes of your disease-of-interest.  
 http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html
