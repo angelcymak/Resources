@@ -15,7 +15,7 @@ Alternatively, use PLINKSEQ : https://atgu.mgh.harvard.edu/plinkseq/
 http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html
 
 4. If you find a variant-of-interest, visually inspect the alignment using IGV  
-https://www.broadinstitute.org/igv/
+https://www.broadinstitute.org/igv/  
   Instead of loading the whole BAM file (whole genome) into IGV, you may want to extract your region of interest using samtools  
   http://samtools.sourceforge.net/
 
