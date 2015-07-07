@@ -2,7 +2,7 @@
 
 ## If you already have VCF files:
 
-1. Quality control, a good post about it:  
+1. Quality control, a post:  
 http://www.cureffi.org/2012/10/17/descriptive-statistics-and-quality-control-on-variants/
 
 2. Annotate, manipulate, query variants using Variant tools (vtools)  
@@ -47,6 +47,20 @@ https://bcbio-nextgen.readthedocs.org/en/latest/
 * Bedtools  
 Interval (BED file) manipuation and check read coverage  
 http://bedtools.readthedocs.org/en/latest/content/bedtools-suite.html
+
+## Reading
+* Guidelines for investigating causality of sequence variants in human disease
+MacArthur et al., Nature, 2014 Apr
+http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html
+
+* Exome sequencing as a tool for Mendelian disease gene discovery
+Bamshad et al., Nature Rev. Genet. 12, 745–755 (2011)
+http://www.nature.com/nrg/journal/v12/n11/full/nrg3031.html
+
+* Exome sequencing and the genetic basis of complex traits
+Kiezun et al., Nature Genet. 44, 623–630 (2012)
+http://www.nature.com/ng/journal/v44/n6/full/ng.2303.html
+
 
 
 
