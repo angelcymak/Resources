@@ -5,6 +5,9 @@
 1. Quality control, a post:  
 http://www.cureffi.org/2012/10/17/descriptive-statistics-and-quality-control-on-variants/
 
+    Variant evaluation using GATK
+    https://www.broadinstitute.org/gatk/guide/tooldocs/org_broadinstitute_gatk_tools_walkers_varianteval_VariantEval.php
+
 2. Annotate, manipulate, query variants using Variant tools (vtools)  
 Can also perform association. Good tutorial on quality control. Has ANNOVAR pipeline.  
 Note: if you export table in vcf format, variants with more than 2 alleles will not be exported  
