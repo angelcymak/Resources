@@ -51,12 +51,12 @@ http://bedtools.readthedocs.org/en/latest/content/bedtools-suite.html
 * Phased vcf
 https://www.broadinstitute.org/gatk/guide/article?id=45
 
-* Imputation
-Beagle  
-http://faculty.washington.edu/browning/beagle/beagle.html  
+* Imputation  
+  Beagle  
+  http://faculty.washington.edu/browning/beagle/beagle.html  
 
-VCF to Beagle input  
-https://www.broadinstitute.org/gatk/guide/tooldocs/org_broadinstitute_gatk_tools_walkers_beagle_ProduceBeagleInput.php
+  VCF to Beagle input  
+  https://www.broadinstitute.org/gatk/guide/tooldocs/org_broadinstitute_gatk_tools_walkers_beagle_ProduceBeagleInput.php
 
 
 ## Reading
