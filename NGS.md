@@ -51,7 +51,7 @@ https://bcbio-nextgen.readthedocs.org/en/latest/
 Interval (BED file) manipuation and check read coverage  
 http://bedtools.readthedocs.org/en/latest/content/bedtools-suite.html
 
-* Phased vcf
+* Phased vcf  
 https://www.broadinstitute.org/gatk/guide/article?id=45
 
 * Imputation  
