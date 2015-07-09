@@ -51,6 +51,14 @@ http://bedtools.readthedocs.org/en/latest/content/bedtools-suite.html
 * Phased vcf
 https://www.broadinstitute.org/gatk/guide/article?id=45
 
+* Imputation
+Beagle  
+http://faculty.washington.edu/browning/beagle/beagle.html  
+
+VCF to Beagle input  
+https://www.broadinstitute.org/gatk/guide/tooldocs/org_broadinstitute_gatk_tools_walkers_beagle_ProduceBeagleInput.php
+
+
 ## Reading
 * Guidelines for investigating causality of sequence variants in human disease
 MacArthur et al., Nature, 2014 Apr
