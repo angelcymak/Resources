@@ -7,7 +7,8 @@ http://www.cureffi.org/2012/10/17/descriptive-statistics-and-quality-control-on-
 
     Variant evaluation using GATK
     https://www.broadinstitute.org/gatk/guide/tooldocs/org_broadinstitute_gatk_tools_walkers_varianteval_VariantEval.php  
-    https://www.broadinstitute.org/gatk/guide/tagged?tag=varianteval
+    https://www.broadinstitute.org/gatk/guide/tagged?tag=varianteval  
+    By samples: http://gatkforums.broadinstitute.org/discussion/1994/varianteval-on-multisample-calling-vcf
 
 2. Annotate, manipulate, query variants using Variant tools (vtools)  
 Can also perform association. Good tutorial on quality control. Has ANNOVAR pipeline.  
