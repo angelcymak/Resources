@@ -61,7 +61,10 @@ https://www.broadinstitute.org/gatk/guide/article?id=45
   http://faculty.washington.edu/browning/beagle/beagle.html  
 
   VCF to Beagle input  
-  https://www.broadinstitute.org/gatk/guide/tooldocs/org_broadinstitute_gatk_tools_walkers_beagle_ProduceBeagleInput.php
+  https://www.broadinstitute.org/gatk/guide/tooldocs/org_broadinstitute_gatk_tools_walkers_beagle_ProduceBeagleInput.php  
+  
+* Convert file format: plink to vcf  
+  http://www.researchgate.net/post/How_to_convert_plink_files_to_VCF_or_other_easily_parseable_format2
 
 
 ## Reading
