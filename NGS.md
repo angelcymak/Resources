@@ -48,6 +48,13 @@ http://broadinstitute.github.io/picard/
 ## If you would like to understand the NGS pipeline that GCF uses  
 https://bcbio-nextgen.readthedocs.org/en/latest/
 
+## If you have small targeted regions  
+1. May need VariantFiltration (hard filtering) instead of VQSR depending on the size of the targeted region  
+http://gatkforums.broadinstitute.org/discussion/3794/failed-in-variantrecalibrator-for-my-customized-target-re-sequencing-data  
+
+2. BQSR may not work if region is <100M bases  
+http://gatkforums.broadinstitute.org/discussion/4272/targeted-sequencing-appropriate-to-use-baserecalibrator-bqsr-on-150m-bases-over-small-intervals
+
 ## Others
 * Bedtools  
 Interval (BED file) manipuation and check read coverage  
