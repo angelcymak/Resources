@@ -73,6 +73,8 @@ https://www.broadinstitute.org/gatk/guide/article?id=45
 * Convert file format: plink to vcf  
   http://www.researchgate.net/post/How_to_convert_plink_files_to_VCF_or_other_easily_parseable_format2
 
+
+## Tools to try  
 * vcf manipulation  
   http://snpeff.sourceforge.net/SnpSift.html#TsTv
 
