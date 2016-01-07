@@ -1,4 +1,7 @@
-# Import
+# IMPORTANT for large dataset
+## Set the temporary folder to a location where there will be plenty of space  
+vtools admin --set_runtime_option 'temp_dir=/hernandez/netapp/maka/vtools_tmp'
+
 
 
 # Custom annotation file  
