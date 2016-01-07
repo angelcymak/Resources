@@ -24,10 +24,10 @@ vtools import /home/data/file.vcf --format vcf --build hg19 --var_info id filter
   
 3. Next import custom annotations in vcf format  
 
-3.1 Generate a custom .ann file (define what annotations you will be importing; See dropbox for an example)  
+* Generate a custom .ann file (define what annotations you will be importing; See dropbox for an example)  
 https://www.dropbox.com/s/vqi6jcfrzj4bwhd/ExAc_r0p3.ann?dl=0  
   Relevant vtools manual: http://varianttools.sourceforge.net/Annotation/New 
   
-3.2 Import vcf annotation  
+* Import vcf annotation  
 vtools use /data/db_vcf.ann --files /hernandez/netapp/maka/joint/FINAL.2015-10-30/anno/Project_BUR_10518_WGS.2015-12-21/temp_sites/chr22.vcf  
 
