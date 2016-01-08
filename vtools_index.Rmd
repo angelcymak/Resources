@@ -18,10 +18,10 @@ vtools init anno
 
 2. Project settings  
 **IMPORTANT for large dataset**  
-* Set the temporary folder to a location where there will be plenty of space  
-vtools admin --set_runtime_option 'temp_dir=<folder location with large space>'
-* SAVE, SAVE, SAVE!  
-vtools admin --save_snapshot <NAME your snapshot> "You may enter free text here"
+  * Set the temporary folder to a location where there will be plenty of space  
+    vtools admin --set_runtime_option 'temp_dir=<folder location with large space>'
+  * SAVE, SAVE, SAVE!  
+    vtools admin --save_snapshot <NAME your snapshot> "You may enter free text here"
   
 3. First import the variants  
 vtools import /home/data/file.vcf --format vcf --build hg19 --var_info id filter  
