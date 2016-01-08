@@ -12,17 +12,19 @@ http://varianttools.sourceforge.net/Annotation/New
 
 
 # Quick start to vtools  
+
+1. Generate a project called anno  
+vtools init anno
+
+2. Project settings  
 **IMPORTANT for large dataset**  
 Set the temporary folder to a location where there will be plenty of space  
 vtools admin --set_runtime_option 'temp_dir=<folder location with large space>'  
-
-1. Generate a project called anno  
-vtools init anno  
   
-2. First import the variants  
+3. First import the variants  
 vtools import /home/data/file.vcf --format vcf --build hg19 --var_info id filter  
   
-3. Next import custom annotations in vcf format  
+4. Next import custom annotations in vcf format  
 
 * Generate a custom .ann file (define what annotations you will be importing; See dropbox for an example)  
 https://www.dropbox.com/s/vqi6jcfrzj4bwhd/ExAc_r0p3.ann?dl=0  
