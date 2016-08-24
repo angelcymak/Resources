@@ -36,7 +36,7 @@ https://www.broadinstitute.org/igv/
 
 ## If you want/need to start with fastq files: 
 
-1. QC your fastq files using FASTQC
+1. QC your fastq files using FASTQC  
 http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 
 
 2. GATK Best Practices for DNAseq  
