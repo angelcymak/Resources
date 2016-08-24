@@ -67,6 +67,9 @@ http://bedtools.readthedocs.org/en/latest/content/bedtools-suite.html
 https://www.broadinstitute.org/gatk/guide/article?id=45
 
 * Imputation  
+  Michigan Imputation Server (most convenient)  
+  https://imputationserver.sph.umich.edu/index.html
+
   Beagle  
   http://faculty.washington.edu/browning/beagle/beagle.html  
 
@@ -77,7 +80,7 @@ https://www.broadinstitute.org/gatk/guide/article?id=45
   http://www.researchgate.net/post/How_to_convert_plink_files_to_VCF_or_other_easily_parseable_format2
 
 
-## Tools to try  
+## Tools I heard but haven't tried  
 * vcf manipulation  
   http://snpeff.sourceforge.net/SnpSift.html#TsTv
 
