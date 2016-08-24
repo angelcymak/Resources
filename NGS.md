@@ -34,18 +34,21 @@ https://www.broadinstitute.org/igv/
   https://www.biostars.org/p/51446/
 
 
-## If you want to start with fastq files: 
+## If you want/need to start with fastq files: 
 
-1. GATK Best Practices for DNAseq  
+1. QC your fastq files using FASTQC
+http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 
+
+2. GATK Best Practices for DNAseq  
 https://www.broadinstitute.org/gatk/guide/best-practices?bpm=DNAseq
 
-2. BWA for alignment of reads  
+3. BWA for alignment of reads  
 http://bio-bwa.sourceforge.net/
 
-3. Picard for mark duplicates  
+4. Picard for mark duplicates  
 http://broadinstitute.github.io/picard/
 
-## If you would like to understand the NGS pipeline that GCF uses  
+## If you would like to understand the NGS pipeline that GCF uses (2015, may be obsolete)  
 https://bcbio-nextgen.readthedocs.org/en/latest/
 
 ## If you have small targeted regions  
