@@ -48,6 +48,9 @@ http://bio-bwa.sourceforge.net/
 4. Picard for mark duplicates  
 http://broadinstitute.github.io/picard/
 
+5. Picard for summary statistics of BAM files  
+https://broadinstitute.github.io/picard/command-line-overview.html#CalculateHsMetrics  
+
 ## If you would like to understand the NGS pipeline that GCF uses (2015, may be obsolete)  
 https://bcbio-nextgen.readthedocs.org/en/latest/
 
@@ -86,6 +89,9 @@ https://www.broadinstitute.org/gatk/guide/article?id=45
 
 
 ## Reading
+* Recommended depth of coverage    
+https://genohub.com/recommended-sequencing-coverage-by-application
+
 * Guidelines for investigating causality of sequence variants in human disease
 MacArthur et al., Nature, 2014 Apr
 http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html
@@ -100,6 +106,7 @@ http://www.nature.com/ng/journal/v44/n6/full/ng.2303.html
 
 
 
-
+## Contributors  
+Sulggi Lee
 
 
